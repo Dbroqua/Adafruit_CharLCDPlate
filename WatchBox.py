@@ -8,7 +8,7 @@ from time import sleep
 import ConfigParser
 
 
-class MyAppli():
+class WatchBox():
 
     # Begin Extended from Adafruit_CharLCDPlate -------------------------------
     # Port expander input pin definitions
